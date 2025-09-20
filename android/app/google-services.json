@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "615033671021",
+    "project_id": "drama-chaska-fe5fa",
+    "storage_bucket": "drama-chaska-fe5fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615033671021:android:0ff0821bd0f530ef61de64",
+        "android_client_info": {
+          "package_name": "com.omnistar.dramachaska"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615033671021-8o6s8h36fkr53q033qiptla8c30rstr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omnistar.dramachaska",
+            "certificate_hash": "1dd91918c95b968809f2d9192f63c2b6b14c739e"
+          }
+        },
+        {
+          "client_id": "615033671021-ovkf49heh14fegrj54vfth786mm3a138.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYPhvisguibm51WuVuipHLxC0rUGhE8xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615033671021-ovkf49heh14fegrj54vfth786mm3a138.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
